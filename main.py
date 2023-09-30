@@ -1,0 +1,2 @@
+i="Salom"
+print(i)
